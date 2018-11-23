@@ -74,6 +74,6 @@ while True:
 ```
 
 ## Licence
-Copyright (c) 2018 Akanuma Hiroaki
-Released under the MIT license
+Copyright (c) 2018 Akanuma Hiroaki  
+Released under the MIT license  
 https://opensource.org/licenses/mit-license.php
