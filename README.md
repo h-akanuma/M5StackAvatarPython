@@ -72,3 +72,8 @@ while True:
     avatar.pale_off()
     time.sleep(5)
 ```
+
+## Licence
+Copyright (c) 2018 Akanuma Hiroaki
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
