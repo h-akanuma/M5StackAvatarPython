@@ -2,6 +2,8 @@
 
  MicroPython module for M5Stack to render avatar face.
 
+![M5StackAvatarPython](m5stack_avatar_python_original.gif)
+
 ## Features
 
 * Show avatar face with blinking eyes
